@@ -1,0 +1,1026 @@
+type_01,type_02,ability_01,ability_02,hidden_ability,egg_group_01,egg_group_02,is_legendary,bst
+Grass, Poison,Overgrow,Unknown,Chlorophyll,Monster, Grass,0,318
+Grass, Poison,Overgrow,Unknown,Chlorophyll,Monster, Grass,0,405
+Grass, Poison,Overgrow,Unknown,Chlorophyll,Monster, Grass,0,525
+Fire,Unknown,Blaze,Unknown,Solar Power,Monster, Dragon,0,309
+Fire,Unknown,Blaze,Unknown,Solar Power,Monster, Dragon,0,405
+Fire, Flying,Blaze,Unknown,Solar Power,Monster, Dragon,0,534
+Water,Unknown,Torrent,Unknown,Rain Dish,Monster, Water 1,0,314
+Water,Unknown,Torrent,Unknown,Rain Dish,Monster, Water 1,0,405
+Water,Unknown,Torrent,Unknown,Rain Dish,Monster, Water 1,0,530
+Bug,Unknown,Shield,Unknown,Run Away,Bug,Unknown,0,195
+Bug,Unknown,Shed,Unknown,Unknown,Bug,Unknown,0,205
+Bug, Flying,Compound,Unknown,Tinted Lens,Bug,Unknown,0,385
+Bug, Poison,Shield,Unknown,Run Away,Bug,Unknown,0,195
+Bug, Poison,Shed,Unknown,Unknown,Bug,Unknown,0,205
+Bug, Poison,Swarm,Unknown,Sniper,Bug,Unknown,0,385
+Normal, Flying,Keen, Tangled,Big Pecks,Flying,Unknown,0,251
+Normal, Flying,Keen, Tangled,Big Pecks,Flying,Unknown,0,349
+Normal, Flying,Keen, Tangled,Big Pecks,Flying,Unknown,0,469
+Normal,Unknown,Run, Guts,Hustle,Field,Unknown,0,253
+Normal,Unknown,Run, Guts,Hustle,Field,Unknown,0,413
+Normal, Flying,Keen,Unknown,Sniper,Flying,Unknown,0,262
+Normal, Flying,Keen,Unknown,Sniper,Flying,Unknown,0,442
+Poison,Unknown,Intimidate, Shed,Unnerve,Field, Dragon,0,288
+Poison,Unknown,Intimidate, Shed,Unnerve,Field, Dragon,0,438
+Electric,Unknown,Static,Unknown,Lightning Rod,Field, Fairy\xa0or No Eggs DiscoveredCosplay/Cap,0,300
+Electric,Unknown,Static,Unknown,Lightning Rod,Field, Fairy,0,475
+Ground,Unknown,Sand,Unknown,Sand Rush,Field,Unknown,0,300
+Ground,Unknown,Sand,Unknown,Sand Rush,Field,Unknown,0,450
+Poison,Unknown,Poison, Rivalry,Hustle,Monster, Field,0,275
+Poison,Unknown,Poison, Rivalry,Hustle,No Eggs Discovered,Unknown,0,365
+Poison, Ground,Poison, Rivalry,Sheer Force,No Eggs Discovered,Unknown,0,495
+Poison,Unknown,Poison, Rivalry,Hustle,Monster, Field,0,273
+Poison,Unknown,Poison, Rivalry,Hustle,Monster, Field,0,365
+Poison, Ground,Poison, Rivalry,Sheer Force,Monster, Field,0,495
+Fairy,Unknown,Cute, Magic,Friend Guard,Fairy,Unknown,0,323
+Fairy,Unknown,Cute, Magic,Unaware,Fairy,Unknown,0,473
+Fire,Unknown,Flash,Unknown,Drought,Field,Unknown,0,299
+Fire,Unknown,Flash,Unknown,Drought,Field,Unknown,0,505
+Normal, Fairy,Cute, Competitive,Friend Guard,Fairy,Unknown,0,270
+Normal, Fairy,Cute, Competitive,Frisk,Fairy,Unknown,0,425
+Poison, Flying,Inner,Unknown,Infiltrator,Flying,Unknown,0,245
+Poison, Flying,Inner,Unknown,Infiltrator,Flying,Unknown,0,455
+Grass, Poison,Chlorophyll,Unknown,Run Away,Grass,Unknown,0,320
+Grass, Poison,Chlorophyll,Unknown,Stench,Grass,Unknown,0,395
+Grass, Poison,Chlorophyll,Unknown,Effect Spore,Grass,Unknown,0,480
+Bug, Grass,Effect, Dry,Damp,Bug, Grass,0,285
+Bug, Grass,Effect, Dry,Damp,Bug, Grass,0,405
+Bug, Poison,Compound, Tinted,Run Away,Bug,Unknown,0,305
+Bug, Poison,Shield, Tinted,Wonder Skin,Bug,Unknown,0,450
+Ground,Unknown,Sand, Arena,Sand Force,Field,Unknown,0,265
+Ground,Unknown,Sand, Arena,Sand Force,Field,Unknown,0,405
+Normal,Unknown,Pickup, Technician,Unnerve and Galarian,Field,Unknown,0,290
+Normal,Unknown,Limber, Technician,Unnerve,Field,Unknown,0,440
+Water,Unknown,Damp, Cloud,Swift Swim,Water 1, Field,0,320
+Water,Unknown,Damp, Cloud,Swift Swim,Water 1, Field,0,500
+Fighting,Unknown,Vital, Anger,Defiant,Field,Unknown,0,305
+Fighting,Unknown,Vital, Anger,Defiant,Field,Unknown,0,455
+Fire,Unknown,Intimidate, Flash,Justified,Field,Unknown,0,350
+Fire,Unknown,Intimidate, Flash,Justified,Field,Unknown,0,555
+Water,Unknown,Water, Damp,Swift Swim,Water 1,Unknown,0,300
+Water,Unknown,Water, Damp,Swift Swim,Water 1,Unknown,0,385
+Water, Fighting,Water, Damp,Swift Swim,Water 1,Unknown,0,500
+Psychic,Unknown,Synchronize, Inner,Magic Guard,Human-Like,Unknown,0,310
+Psychic,Unknown,Synchronize, Inner,Magic Guard,Human-Like,Unknown,0,400
+Psychic,Unknown,Synchronize, Inner,Magic Guard,Human-Like,Unknown,0,490
+Fighting,Unknown,Guts, No,Steadfast,Human-Like,Unknown,0,305
+Fighting,Unknown,Guts, No,Steadfast,Human-Like,Unknown,0,405
+Fighting,Unknown,Guts, No,Steadfast,Human-Like,Unknown,0,505
+Grass, Poison,Chlorophyll,Unknown,Gluttony,Grass,Unknown,0,300
+Grass, Poison,Chlorophyll,Unknown,Gluttony,Grass,Unknown,0,390
+Grass, Poison,Chlorophyll,Unknown,Gluttony,Grass,Unknown,0,480
+Water, Poison,Clear, Liquid,Rain Dish,Water 3,Unknown,0,335
+Water, Poison,Clear, Liquid,Rain Dish,Water 3,Unknown,0,515
+Rock, Ground,Rock, Sturdy,Sand Veil,Mineral,Unknown,0,300
+Rock, Ground,Rock, Sturdy,Sand Veil,Mineral,Unknown,0,390
+Rock, Ground,Rock, Sturdy,Sand Veil,Mineral,Unknown,0,485
+Fire,Unknown,Run, Flash,Flame Body,Field,Unknown,0,410
+Fire,Unknown,Run, Flash,Flame Body,Field,Unknown,0,500
+Water, Psychic,Oblivious, Own,Regenerator,Monster, Water 1,0,315
+Water, Psychic,Oblivious, Own,Regenerator,Monster, Water 1,0,490
+Electric, Steel,Magnet, Sturdy,Analytic,Mineral,Unknown,0,325
+Electric, Steel,Magnet, Sturdy,Analytic,Mineral,Unknown,0,465
+Normal, Flying,Keen, Inner,Defiant,Flying, Field,0,352
+Normal, Flying,Run, Early,Tangled Feet,Flying,Unknown,0,310
+Normal, Flying,Run, Early,Tangled Feet,Flying,Unknown,0,460
+Water,Unknown,Thick, Hydration,Ice Body,Water 1, Field,0,325
+Water, Ice,Thick, Hydration,Ice Body,Water 1, Field,0,475
+Poison,Unknown,Stench, Sticky,Poison Touch,Amorphous,Unknown,0,325
+Poison,Unknown,Stench, Sticky,Poison Touch,Amorphous,Unknown,0,500
+Water,Unknown,Shell, Skill,Overcoat,Water 3,Unknown,0,305
+Water, Ice,Shell, Skill,Overcoat,Water 3,Unknown,0,525
+Ghost, Poison,Levitate,Unknown,Unknown,Amorphous,Unknown,0,310
+Ghost, Poison,Levitate,Unknown,Unknown,Amorphous,Unknown,0,405
+Ghost, Poison,Cursed,Unknown,Unknown,Amorphous,Unknown,0,500
+Rock, Ground,Rock, Sturdy,Weak Armor,Mineral,Unknown,0,385
+Psychic,Unknown,Insomnia, Forewarn,Inner Focus,Human-Like,Unknown,0,328
+Psychic,Unknown,Insomnia, Forewarn,Inner Focus,Human-Like,Unknown,0,483
+Water,Unknown,Hyper, Shell,Sheer Force,Water 3,Unknown,0,325
+Water,Unknown,Hyper, Shell,Sheer Force,Water 3,Unknown,0,475
+Electric,Unknown,Soundproof, Static,Aftermath,Mineral,Unknown,0,330
+Electric,Unknown,Soundproof, Static,Aftermath,Mineral,Unknown,0,480
+Grass, Psychic,Chlorophyll,Unknown,Harvest,Grass,Unknown,0,325
+Grass, Psychic,Chlorophyll,Unknown,Harvest,Grass,Unknown,0,520
+Ground,Unknown,Rock, Lightning,Battle Armor,Monster,Unknown,0,320
+Ground,Unknown,Rock, Lightning,Battle Armor,Monster,Unknown,0,425
+Fighting,Unknown,Limber, Reckless,Unburden,Human-Like,Unknown,0,455
+Fighting,Unknown,Keen, Iron,Inner Focus,Human-Like,Unknown,0,455
+Normal,Unknown,Own, Oblivious,Cloud Nine,Monster,Unknown,0,385
+Poison,Unknown,Levitate, Neutralizing GasGen ,Stench,Amorphous,Unknown,0,340
+Poison,Unknown,Levitate, Neutralizing,Stench,Amorphous,Unknown,0,490
+Ground, Rock,Lightning, Rock,Reckless,Monster, Field,0,345
+Ground, Rock,Lightning, Rock,Reckless,Monster, Field,0,485
+Normal,Unknown,Natural, Serene,Healer,Fairy,Unknown,0,450
+Grass,Unknown,Chlorophyll, Leaf,Regenerator,Grass,Unknown,0,435
+Normal,Unknown,Early, Scrappy,Inner Focus,Monster,Unknown,0,490
+Water,Unknown,Swift, Sniper,Damp,Water 1, Dragon,0,295
+Water,Unknown,Poison, Sniper,Damp,Water 1, Dragon,0,440
+Water,Unknown,Swift, Water,Lightning Rod,Water 2,Unknown,0,320
+Water,Unknown,Swift, Water,Lightning Rod,Water 2,Unknown,0,450
+Water,Unknown,Illuminate, Natural,Analytic,Water 3,Unknown,0,340
+Water, Psychic,Illuminate, Natural,Analytic,Water 3,Unknown,0,520
+Psychic, Fairy,Soundproof, Filter,Technician,Human-Like,Unknown,0,460
+Bug, Flying,Swarm, Technician,Steadfast,Bug,Unknown,0,500
+Ice, Psychic,Oblivious, Forewarn,Dry Skin,Human-Like,Unknown,0,455
+Electric,Unknown,Static,Unknown,Vital Spirit,Human-Like,Unknown,0,490
+Fire,Unknown,Flame,Unknown,Vital Spirit,Human-Like,Unknown,0,495
+Bug,Unknown,Hyper, Mold,Moxie,Bug,Unknown,0,500
+Normal,Unknown,Intimidate, Anger,Sheer Force,Field,Unknown,0,490
+Water,Unknown,Swift,Unknown,Rattled,Water 2, Dragon,0,200
+Water, Flying,Intimidate,Unknown,Moxie,Water 2, Dragon,0,540
+Water, Ice,Water, Shell,Hydration,Monster, Water 1,0,535
+Normal,Unknown,Limber,Unknown,Imposter,Ditto,Unknown,0,288
+Normal,Unknown,Run, Adaptability,Anticipation,Field,Unknown,0,325
+Water,Unknown,Water,Unknown,Hydration,Field,Unknown,0,525
+Electric,Unknown,Volt,Unknown,Quick Feet,Field,Unknown,0,525
+Fire,Unknown,Flash,Unknown,Guts,Field,Unknown,0,525
+Normal,Unknown,Trace, Download,Analytic,Mineral,Unknown,0,395
+Rock, Water,Swift, Shell,Weak Armor,Water 1, Water 3,0,355
+Rock, Water,Swift, Shell,Weak Armor,Water 1, Water 3,0,495
+Rock, Water,Swift, Battle,Weak Armor,Water 1, Water 3,0,355
+Rock, Water,Swift, Battle,Weak Armor,Water 1, Water 3,0,495
+Rock, Flying,Rock, Pressure,Unnerve,Flying,Unknown,0,515
+Normal,Unknown,Immunity, Thick,Gluttony,Monster,Unknown,0,540
+Ice, Flying,Pressure,Unknown,Snow Cloak,Unknown,Unknown,1,580
+Electric, Flying,Pressure,Unknown,Static,Unknown,Unknown,1,580
+Fire, Flying,Pressure,Unknown,Flame Body,Unknown,Unknown,1,580
+Dragon,Unknown,Shed,Unknown,Marvel Scale,Water 1, Dragon,0,300
+Dragon,Unknown,Shed,Unknown,Marvel Scale,Water 1, Dragon,0,420
+Dragon, Flying,Inner,Unknown,Multiscale,Water 1, Dragon,0,600
+Psychic,Unknown,Pressure,Unknown,Unnerve,Unknown,Unknown,1,680
+Psychic,Unknown,Synchronize,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Leaf Guard,Monster, Grass,0,318
+Grass,Unknown,Overgrow,Unknown,Leaf Guard,Monster, Grass,0,405
+Grass,Unknown,Overgrow,Unknown,Leaf Guard,Monster, Grass,0,525
+Fire,Unknown,Blaze,Unknown,Flash Fire,Field,Unknown,0,309
+Fire,Unknown,Blaze,Unknown,Flash Fire,Field,Unknown,0,405
+Fire,Unknown,Blaze,Unknown,Flash Fire,Field,Unknown,0,534
+Water,Unknown,Torrent,Unknown,Sheer Force,Monster, Water 1,0,314
+Water,Unknown,Torrent,Unknown,Sheer Force,Monster, Water 1,0,405
+Water,Unknown,Torrent,Unknown,Sheer Force,Monster, Water 1,0,530
+Normal,Unknown,Run, Keen,Frisk,Field,Unknown,0,215
+Normal,Unknown,Run, Keen,Frisk,Field,Unknown,0,415
+Normal, Flying,Insomnia, Keen,Tinted Lens,Flying,Unknown,0,262
+Normal, Flying,Insomnia, Keen,Tinted Lens,Flying,Unknown,0,442
+Bug, Flying,Swarm, Early,Rattled,Bug,Unknown,0,265
+Bug, Flying,Swarm, Early,Iron Fist,Bug,Unknown,0,390
+Bug, Poison,Swarm, Insomnia,Sniper,Bug,Unknown,0,250
+Bug, Poison,Swarm, Insomnia,Sniper,Bug,Unknown,0,390
+Poison, Flying,Inner,Unknown,Infiltrator,Flying,Unknown,0,535
+Water, Electric,Volt, Illuminate,Water Absorb,Water 2,Unknown,0,330
+Water, Electric,Volt, Illuminate,Water Absorb,Water 2,Unknown,0,460
+Electric,Unknown,Static,Unknown,Lightning Rod,No Eggs Discovered,Unknown,0,205
+Fairy,Unknown,Cute, Magic,Friend Guard,No Eggs Discovered,Unknown,0,218
+Normal, Fairy,Cute, Competitive,Friend Guard,No Eggs Discovered,Unknown,0,210
+Fairy,Unknown,Hustle, Serene,Super Luck,No Eggs Discovered,Unknown,0,245
+Fairy, Flying,Hustle, Serene,Super Luck,Flying, Fairy,0,405
+Psychic, Flying,Synchronize, Early,Magic Bounce,Flying,Unknown,0,320
+Psychic, Flying,Synchronize, Early,Magic Bounce,Flying,Unknown,0,470
+Electric,Unknown,Static,Unknown,Plus,Monster, Field,0,280
+Electric,Unknown,Static,Unknown,Plus,Monster, Field,0,365
+Electric,Unknown,Static,Unknown,Plus,Monster, Field,0,500
+Grass,Unknown,Chlorophyll,Unknown,Healer,Grass,Unknown,0,480
+Water, Fairy,Thick, Huge,Sap Sipper,Water 1, Fairy,0,250
+Water, Fairy,Thick, Huge,Sap Sipper,Water 1, Fairy,0,410
+Rock,Unknown,Sturdy, Rock,Rattled,Mineral,Unknown,0,410
+Water,Unknown,Water, Damp,Drizzle,Water 1,Unknown,0,500
+Grass, Flying,Chlorophyll, Leaf,Infiltrator,Fairy, Grass,0,250
+Grass, Flying,Chlorophyll, Leaf,Infiltrator,Fairy, Grass,0,340
+Grass, Flying,Chlorophyll, Leaf,Infiltrator,Fairy, Grass,0,450
+Normal,Unknown,Run, Pickup,Skill Link,Field,Unknown,0,360
+Grass,Unknown,Chlorophyll, Solar,Early Bird,Grass,Unknown,0,180
+Grass,Unknown,Chlorophyll, Solar,Early Bird,Grass,Unknown,0,425
+Bug, Flying,Speed, Compound,Frisk,Bug,Unknown,0,390
+Water, Ground,Damp, Water,Unaware,Water 1, Field,0,210
+Water, Ground,Damp, Water,Unaware,Water 1, Field,0,430
+Psychic,Unknown,Synchronize,Unknown,Magic Bounce,Field,Unknown,0,525
+Dark,Unknown,Synchronize,Unknown,Inner Focus,Field,Unknown,0,525
+Dark, Flying,Insomnia, Super,Prankster,Flying,Unknown,0,405
+Water, Psychic,Oblivious, Own,Regenerator,Monster, Water 1,0,490
+Ghost,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,435
+Psychic,Unknown,Levitate,Unknown,Unknown,Unknown,Unknown,0,336
+Psychic,Unknown,Shadow,Unknown,Telepathy,Amorphous,Unknown,0,405
+Normal, Psychic,Inner, Early,Sap Sipper,Field,Unknown,0,455
+Bug,Unknown,Sturdy,Unknown,Overcoat,Bug,Unknown,0,290
+Bug, Steel,Sturdy,Unknown,Overcoat,Bug,Unknown,0,465
+Normal,Unknown,Serene, Run,Rattled,Field,Unknown,0,415
+Ground, Flying,Hyper, Sand,Immunity,Bug,Unknown,0,430
+Steel, Ground,Rock, Sturdy,Sheer Force,Mineral,Unknown,0,510
+Fairy,Unknown,Intimidate, Run,Rattled,Field, Fairy,0,300
+Fairy,Unknown,Intimidate, Quick,Rattled,Field, Fairy,0,450
+Water, Poison,Poison, Swift,Intimidate,Water 2,Unknown,0,430
+Bug, Steel,Swarm, Technician,Light Metal,Bug,Unknown,0,500
+Bug, Rock,Sturdy, Gluttony,Contrary,Bug,Unknown,0,505
+Bug, Fighting,Swarm, Guts,Moxie,Bug,Unknown,0,500
+Dark, Ice,Inner, Keen,Pickpocket,Field,Unknown,0,430
+Normal,Unknown,Pickup, Quick,Honey Gather,Field,Unknown,0,330
+Normal,Unknown,Guts, Quick,Unnerve,Field,Unknown,0,500
+Fire,Unknown,Magma, Flame,Weak Armor,Amorphous,Unknown,0,250
+Fire, Rock,Magma, Flame,Weak Armor,Amorphous,Unknown,0,410
+Ice, Ground,Oblivious, Snow,Thick Fat,Field,Unknown,0,250
+Ice, Ground,Oblivious, Snow,Thick Fat,Field,Unknown,0,450
+Water, Rock,Hustle, Natural,Regenerator,Water 1, Water 3,0,380
+Water,Unknown,Hustle, Sniper,Moody,Water 1, Water 2,0,300
+Water,Unknown,Suction, Sniper,Moody,Water 1, Water 2,0,480
+Ice, Flying,Vital, Hustle,Insomnia,Water 1, Field,0,330
+Water, Flying,Swift, Water,Water Veil,Water 1,Unknown,0,465
+Steel, Flying,Keen, Sturdy,Weak Armor,Flying,Unknown,0,465
+Dark, Fire,Early, Flash,Unnerve,Field,Unknown,0,330
+Dark, Fire,Early, Flash,Unnerve,Field,Unknown,0,500
+Water, Dragon,Swift, Sniper,Damp,Water 1, Dragon,0,540
+Ground,Unknown,Pickup,Unknown,Sand Veil,Field,Unknown,0,330
+Ground,Unknown,Sturdy,Unknown,Sand Veil,Field,Unknown,0,500
+Normal,Unknown,Trace, Download,Analytic,Mineral,Unknown,0,515
+Normal,Unknown,Intimidate, Frisk,Sap Sipper,Field,Unknown,0,465
+Normal,Unknown,Own, Technician,Moody,Field,Unknown,0,250
+Fighting,Unknown,Guts, Steadfast,Vital Spirit,No Eggs Discovered,Unknown,0,210
+Fighting,Unknown,Intimidate, Technician,Steadfast,Human-Like,Unknown,0,455
+Ice, Psychic,Oblivious, Forewarn,Hydration,No Eggs Discovered,Unknown,0,305
+Electric,Unknown,Static,Unknown,Vital Spirit,No Eggs Discovered,Unknown,0,360
+Fire,Unknown,Flame,Unknown,Vital Spirit,No Eggs Discovered,Unknown,0,365
+Normal,Unknown,Thick, Scrappy,Sap Sipper,Field,Unknown,0,490
+Normal,Unknown,Natural, Serene,Healer,Fairy,Unknown,0,540
+Electric,Unknown,Pressure,Unknown,Inner Focus,Unknown,Unknown,1,580
+Fire,Unknown,Pressure,Unknown,Inner Focus,Unknown,Unknown,1,580
+Water,Unknown,Pressure,Unknown,Inner Focus,Unknown,Unknown,1,580
+Rock, Ground,Guts,Unknown,Sand Veil,Monster,Unknown,0,300
+Rock, Ground,Shed,Unknown,Unknown,Monster,Unknown,0,410
+Rock, Dark,Sand,Unknown,Unnerve,Monster,Unknown,0,600
+Psychic, Flying,Pressure,Unknown,Multiscale,Unknown,Unknown,1,680
+Fire, Flying,Pressure,Unknown,Regenerator,Unknown,Unknown,1,680
+Psychic, Grass,Natural,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Unburden,Monster, Dragon,0,310
+Grass,Unknown,Overgrow,Unknown,Unburden,Monster, Dragon,0,405
+Grass,Unknown,Overgrow,Unknown,Unburden,Monster, Dragon,0,530
+Fire,Unknown,Blaze,Unknown,Speed Boost,Field,Unknown,0,310
+Fire, Fighting,Blaze,Unknown,Speed Boost,Field,Unknown,0,405
+Fire, Fighting,Blaze,Unknown,Speed Boost,Field,Unknown,0,530
+Water,Unknown,Torrent,Unknown,Damp,Monster, Water 1,0,310
+Water, Ground,Torrent,Unknown,Damp,Monster, Water 1,0,405
+Water, Ground,Torrent,Unknown,Damp,Monster, Water 1,0,535
+Dark,Unknown,Run, Quick,Rattled,Field,Unknown,0,220
+Dark,Unknown,Intimidate, Quick,Moxie,Field,Unknown,0,420
+Normal,Unknown,Pickup, Gluttony,Quick Feet,Field,Unknown,0,240
+Normal,Unknown,Pickup, Gluttony,Quick Feet,Field,Unknown,0,420
+Bug,Unknown,Shield,Unknown,Run Away,Bug,Unknown,0,195
+Bug,Unknown,Shed,Unknown,Unknown,Bug,Unknown,0,205
+Bug, Flying,Swarm,Unknown,Rivalry,Bug,Unknown,0,385
+Bug,Unknown,Shed,Unknown,Unknown,Bug,Unknown,0,205
+Bug, Poison,Shield,Unknown,Compound Eyes,Bug,Unknown,0,385
+Water, Grass,Swift, Rain,Own Tempo,Water 1, Grass,0,220
+Water, Grass,Swift, Rain,Own Tempo,Water 1, Grass,0,340
+Water, Grass,Swift, Rain,Own Tempo,Water 1, Grass,0,480
+Grass,Unknown,Chlorophyll, Early,Pickpocket,Field, Grass,0,220
+Grass, Dark,Chlorophyll, Early,Pickpocket,Field, Grass,0,340
+Grass, Dark,Chlorophyll, Wind,Pickpocket,Field, Grass,0,480
+Normal, Flying,Guts,Unknown,Scrappy,Flying,Unknown,0,270
+Normal, Flying,Guts,Unknown,Scrappy,Flying,Unknown,0,430
+Water, Flying,Keen, Hydration,Rain Dish,Water 1, Flying,0,270
+Water, Flying,Keen, Drizzle,Rain Dish,Water 1, Flying,0,430
+Psychic, Fairy,Synchronize, Trace,Telepathy,Human-LikeGen VIII+, Amorphous,0,198
+Psychic, Fairy,Synchronize, Trace,Telepathy,Human-LikeGen VIII+, Amorphous,0,278
+Psychic, Fairy,Synchronize, Trace,Telepathy,Human-LikeGen VIII+, Amorphous,0,518
+Bug, Water,Swift,Unknown,Rain Dish,Water 1, Bug,0,269
+Bug, Flying,Intimidate,Unknown,Unnerve,Water 1, Bug,0,414
+Grass,Unknown,Effect, Poison,Quick Feet,Fairy, Grass,0,295
+Grass, Fighting,Effect, Poison,Technician,Fairy, Grass,0,460
+Normal,Unknown,Truant,Unknown,Unknown,Field,Unknown,0,280
+Normal,Unknown,Vital,Unknown,Unknown,Field,Unknown,0,440
+Normal,Unknown,Truant,Unknown,Unknown,Field,Unknown,0,670
+Bug, Ground,Compound,Unknown,Run Away,Bug,Unknown,0,266
+Bug, Flying,Speed,Unknown,Infiltrator,Bug,Unknown,0,456
+Bug, Ghost,Wonder,Unknown,Unknown,Mineral,Unknown,0,236
+Normal,Unknown,Soundproof,Unknown,Rattled,Monster, Field,0,240
+Normal,Unknown,Soundproof,Unknown,Scrappy,Monster, Field,0,360
+Normal,Unknown,Soundproof,Unknown,Scrappy,Monster, Field,0,480
+Fighting,Unknown,Thick, Guts,Sheer Force,Human-Like,Unknown,0,237
+Fighting,Unknown,Thick, Guts,Sheer Force,Human-Like,Unknown,0,474
+Normal, Fairy,Thick, Huge,Sap Sipper,No Eggs Discovered,Unknown,0,190
+Rock,Unknown,Sturdy, Magnet,Sand Force,Mineral,Unknown,0,375
+Normal,Unknown,Cute, Normalize,Wonder Skin,Field, Fairy,0,260
+Normal,Unknown,Cute, Normalize,Wonder Skin,Field, Fairy,0,380
+Dark, Ghost,Keen, Stall,Prankster,Human-Like,Unknown,0,380
+Steel, Fairy,Hyper, Intimidate,Sheer Force,Field, Fairy,0,380
+Steel, Rock,Sturdy, Rock,Heavy Metal,Monster,Unknown,0,330
+Steel, Rock,Sturdy, Rock,Heavy Metal,Monster,Unknown,0,430
+Steel, Rock,Sturdy, Rock,Heavy Metal,Monster,Unknown,0,530
+Fighting, Psychic,Pure,Unknown,Telepathy,Human-Like,Unknown,0,280
+Fighting, Psychic,Pure,Unknown,Telepathy,Human-Like,Unknown,0,410
+Electric,Unknown,Static, Lightning,Minus,Field,Unknown,0,295
+Electric,Unknown,Static, Lightning,Minus,Field,Unknown,0,475
+Electric,Unknown,Plus,Unknown,Lightning Rod,Fairy,Unknown,0,405
+Electric,Unknown,Minus,Unknown,Volt Absorb,Fairy,Unknown,0,405
+Bug,Unknown,Illuminate, Swarm,Prankster,Bug, Human-Like,0,400
+Bug,Unknown,Oblivious, Tinted,Prankster,Bug, Human-Like,0,400
+Grass, Poison,Natural, Poison,Leaf Guard,Fairy, Grass,0,400
+Poison,Unknown,Liquid, Sticky,Gluttony,Amorphous,Unknown,0,302
+Poison,Unknown,Liquid, Sticky,Gluttony,Amorphous,Unknown,0,467
+Water, Dark,Rough,Unknown,Speed Boost,Water 2,Unknown,0,305
+Water, Dark,Rough,Unknown,Speed Boost,Water 2,Unknown,0,460
+Water,Unknown,Water, Oblivious,Pressure,Field, Water 2,0,400
+Water,Unknown,Water, Oblivious,Pressure,Field, Water 2,0,500
+Fire, Ground,Oblivious, Simple,Own Tempo,Field,Unknown,0,305
+Fire, Ground,Magma, Solid,Anger Point,Field,Unknown,0,460
+Fire,Unknown,White, Drought,Shell Armor,Field,Unknown,0,470
+Psychic,Unknown,Thick, Own,Gluttony,Field,Unknown,0,330
+Psychic,Unknown,Thick, Own,Gluttony,Field,Unknown,0,470
+Normal,Unknown,Own, Tangled,Contrary,Field, Human-Like,0,360
+Ground,Unknown,Hyper, Arena,Sheer Force,Bug, DragonGen VIII+,0,290
+Ground, Dragon,Levitate,Unknown,Unknown,Bug, DragonGen VIII+,0,340
+Ground, Dragon,Levitate,Unknown,Unknown,Bug, DragonGen VIII+,0,520
+Grass,Unknown,Sand,Unknown,Water Absorb,Grass, Human-Like,0,335
+Grass, Dark,Sand,Unknown,Water Absorb,Grass, Human-Like,0,475
+Normal, Flying,Natural,Unknown,Cloud Nine,Flying, Dragon,0,310
+Dragon, Flying,Natural,Unknown,Cloud Nine,Flying, Dragon,0,490
+Normal,Unknown,Immunity,Unknown,Toxic Boost,Field,Unknown,0,458
+Poison,Unknown,Shed,Unknown,Infiltrator,Field, Dragon,0,458
+Rock, Psychic,Levitate,Unknown,Unknown,Mineral,Unknown,0,440
+Rock, Psychic,Levitate,Unknown,Unknown,Mineral,Unknown,0,440
+Water, Ground,Oblivious, Anticipation,Hydration,Water 2,Unknown,0,288
+Water, Ground,Oblivious, Anticipation,Hydration,Water 2,Unknown,0,468
+Water,Unknown,Hyper, Shell,Adaptability,Water 1, Water 3,0,308
+Water, Dark,Hyper, Shell,Adaptability,Water 1, Water 3,0,468
+Ground, Psychic,Levitate,Unknown,Unknown,Mineral,Unknown,0,300
+Ground, Psychic,Levitate,Unknown,Unknown,Mineral,Unknown,0,500
+Rock, Grass,Suction,Unknown,Storm Drain,Water 3,Unknown,0,355
+Rock, Grass,Suction,Unknown,Storm Drain,Water 3,Unknown,0,495
+Rock, Bug,Battle,Unknown,Swift Swim,Water 3,Unknown,0,355
+Rock, Bug,Battle,Unknown,Swift Swim,Water 3,Unknown,0,495
+Water,Unknown,Swift, Oblivious,Adaptability,Water 1, Dragon,0,200
+Water,Unknown,Marvel, Competitive,Cute Charm,Water 1, Dragon,0,540
+Normal,Unknown,Forecast,Unknown,Unknown,Fairy, Amorphous,0,420
+Normal,Unknown,Color,Unknown,Protean,Field,Unknown,0,440
+Ghost,Unknown,Insomnia, Frisk,Cursed Body,Amorphous,Unknown,0,295
+Ghost,Unknown,Insomnia, Frisk,Cursed Body,Amorphous,Unknown,0,455
+Ghost,Unknown,Levitate,Unknown,Frisk,Amorphous,Unknown,0,295
+Ghost,Unknown,Pressure,Unknown,Frisk,Amorphous,Unknown,0,455
+Grass, Flying,Chlorophyll, Solar,Harvest,Monster, Grass,0,460
+Psychic,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,425
+Dark,Unknown,Pressure, Super,Justified,Field,Unknown,0,465
+Psychic,Unknown,Shadow,Unknown,Telepathy,No Eggs Discovered,Unknown,0,260
+Ice,Unknown,Inner, Ice,Moody,Fairy, Mineral,0,300
+Ice,Unknown,Inner, Ice,Moody,Fairy, Mineral,0,480
+Ice, Water,Thick, Ice,Oblivious,Water 1, Field,0,290
+Ice, Water,Thick, Ice,Oblivious,Water 1, Field,0,410
+Ice, Water,Thick, Ice,Oblivious,Water 1, Field,0,530
+Water,Unknown,Shell,Unknown,Rattled,Water 1,Unknown,0,345
+Water,Unknown,Swift,Unknown,Water Veil,Water 1,Unknown,0,485
+Water,Unknown,Swift,Unknown,Hydration,Water 1,Unknown,0,485
+Water, Rock,Swift, Rock,Sturdy,Water 1, Water 2,0,485
+Water,Unknown,Swift,Unknown,Hydration,Water 2,Unknown,0,330
+Dragon,Unknown,Rock,Unknown,Sheer Force,Dragon,Unknown,0,300
+Dragon,Unknown,Rock,Unknown,Overcoat,Dragon,Unknown,0,420
+Dragon, Flying,Intimidate,Unknown,Moxie,Dragon,Unknown,0,600
+Steel, Psychic,Clear,Unknown,Light Metal,Mineral,Unknown,0,300
+Steel, Psychic,Clear,Unknown,Light Metal,Mineral,Unknown,0,420
+Steel, Psychic,Clear,Unknown,Light Metal,Mineral,Unknown,0,600
+Rock,Unknown,Clear,Unknown,Sturdy,Unknown,Unknown,1,580
+Ice,Unknown,Clear,Unknown,Ice Body,Unknown,Unknown,1,580
+Steel,Unknown,Clear,Unknown,Light Metal,Unknown,Unknown,1,580
+Dragon, Psychic,Levitate,Unknown,Unknown,Unknown,Unknown,1,600
+Dragon, Psychic,Levitate,Unknown,Unknown,Unknown,Unknown,1,600
+Water,Unknown,Drizzle,Unknown,Unknown,Unknown,Unknown,1,670
+Ground,Unknown,Drought,Unknown,Unknown,Unknown,Unknown,1,670
+Dragon, Flying,Air,Unknown,Unknown,Unknown,Unknown,1,680
+Steel, Psychic,Serene,Unknown,Unknown,Unknown,Unknown,0,600
+Psychic,Unknown,Pressure,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Shell Armor,Monster, Grass,0,318
+Grass,Unknown,Overgrow,Unknown,Shell Armor,Monster, Grass,0,405
+Grass, Ground,Overgrow,Unknown,Shell Armor,Monster, Grass,0,525
+Fire,Unknown,Blaze,Unknown,Iron Fist,Field, Human-Like,0,309
+Fire, Fighting,Blaze,Unknown,Iron Fist,Field, Human-Like,0,405
+Fire, Fighting,Blaze,Unknown,Iron Fist,Field, Human-Like,0,534
+Water,Unknown,Torrent,Unknown,Competitive ,Water 1, Field,0,314
+Water,Unknown,Torrent,Unknown,Competitive ,Water 1, Field,0,405
+Water, Steel,Torrent,Unknown,Competitive ,Water 1, Field,0,530
+Normal, Flying,Keen,Unknown,Reckless,Flying,Unknown,0,245
+Normal, Flying,Intimidate,Unknown,Reckless,Flying,Unknown,0,340
+Normal, Flying,Intimidate,Unknown,Reckless,Flying,Unknown,0,475
+Normal,Unknown,Simple, Unaware,Moody,Water 1, Field,0,250
+Normal, Water,Simple, Unaware,Moody,Water 1, Field,0,410
+Bug,Unknown,Shed,Unknown,Run Away,Bug,Unknown,0,194
+Bug,Unknown,Swarm,Unknown,Technician,Bug,Unknown,0,384
+Electric,Unknown,Rivalry, Intimidate,Guts,Field,Unknown,0,263
+Electric,Unknown,Rivalry, Intimidate,Guts,Field,Unknown,0,363
+Electric,Unknown,Rivalry, Intimidate,Guts,Field,Unknown,0,523
+Grass, Poison,Natural, Poison,Leaf Guard,No Eggs Discovered,Unknown,0,280
+Grass, Poison,Natural, Poison,Technician,Fairy, Grass,0,505
+Rock,Unknown,Mold,Unknown,Sheer Force,Monster,Unknown,0,350
+Rock,Unknown,Mold,Unknown,Sheer Force,Monster,Unknown,0,495
+Rock, Steel,Sturdy,Unknown,Soundproof,Monster,Unknown,0,350
+Rock, Steel,Sturdy,Unknown,Soundproof,Monster,Unknown,0,495
+Bug,Unknown,Shed,Unknown,Overcoat,Bug,Unknown,0,224
+Bug, Grass,Anticipation,Unknown,Overcoat,Bug,Unknown,0,424
+Bug, Flying,Swarm,Unknown,Tinted Lens,Bug,Unknown,0,424
+Bug, Flying,Honey,Unknown,Hustle,Bug,Unknown,0,244
+Bug, Flying,Pressure,Unknown,Unnerve,Bug,Unknown,0,474
+Electric,Unknown,Run, Pickup,Volt Absorb,Field, Fairy,0,405
+Water,Unknown,Swift,Unknown,Water Veil,Water 1, Field,0,330
+Water,Unknown,Swift,Unknown,Water Veil,Water 1, Field,0,495
+Grass,Unknown,Chlorophyll,Unknown,Unknown,Fairy, Grass,0,275
+Grass,Unknown,Flower,Unknown,Unknown,Fairy, Grass,0,450
+Water,Unknown,Sticky, Storm,Sand Force,Water 1, Amorphous,0,325
+Water, Ground,Sticky, Storm,Sand Force,Water 1, Amorphous,0,475
+Normal,Unknown,Technician, Pickup,Skill Link,Field,Unknown,0,482
+Ghost, Flying,Aftermath, Unburden,Flare Boost,Amorphous,Unknown,0,348
+Ghost, Flying,Aftermath, Unburden,Flare Boost,Amorphous,Unknown,0,498
+Normal,Unknown,Run, Klutz,Limber,Field, Human-Like,0,350
+Normal,Unknown,Cute, Klutz,Limber,Field, Human-Like,0,480
+Ghost,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,495
+Dark, Flying,Insomnia, Super,Moxie,Flying,Unknown,0,505
+Normal,Unknown,Limber, Own,Keen Eye,Field,Unknown,0,310
+Normal,Unknown,Thick, Own,Defiant,Field,Unknown,0,452
+Psychic,Unknown,Levitate,Unknown,Unknown,No Eggs Discovered,Unknown,0,285
+Poison, Dark,Stench, Aftermath,Keen Eye,Field,Unknown,0,329
+Poison, Dark,Stench, Aftermath,Keen Eye,Field,Unknown,0,479
+Steel, Psychic,Levitate, Heatproof,Heavy Metal,Mineral,Unknown,0,300
+Steel, Psychic,Levitate, Heatproof,Heavy Metal,Mineral,Unknown,0,500
+Rock,Unknown,Sturdy, Rock,Rattled,No Eggs Discovered,Unknown,0,290
+Psychic, Fairy,Soundproof, Filter,Technician,No Eggs Discovered,Unknown,0,310
+Normal,Unknown,Natural, Serene,Friend Guard,No Eggs Discovered,Unknown,0,220
+Normal, Flying,Keen, Tangled,Big Pecks,Flying,Unknown,0,411
+Ghost, Dark,Pressure,Unknown,Infiltrator,Amorphous,Unknown,0,485
+Dragon, Ground,Sand,Unknown,Rough Skin,Monster, Dragon,0,300
+Dragon, Ground,Sand,Unknown,Rough Skin,Monster, Dragon,0,410
+Dragon, Ground,Sand,Unknown,Rough Skin,Monster, Dragon,0,600
+Normal,Unknown,Pickup, Thick,Gluttony,No Eggs Discovered,Unknown,0,390
+Fighting,Unknown,Steadfast, Inner,Prankster,No Eggs Discovered,Unknown,0,285
+Fighting, Steel,Steadfast, Inner,Justified,Field, Human-Like,0,525
+Ground,Unknown,Sand,Unknown,Sand Force,Field,Unknown,0,330
+Ground,Unknown,Sand,Unknown,Sand Force,Field,Unknown,0,525
+Poison, Bug,Battle, Sniper,Keen Eye,Bug, Water 3,0,330
+Poison, Dark,Battle, Sniper,Keen Eye,Bug, Water 3,0,500
+Poison, Fighting,Anticipation, Dry,Poison Touch,Human-Like,Unknown,0,300
+Poison, Fighting,Anticipation, Dry,Poison Touch,Human-Like,Unknown,0,490
+Grass,Unknown,Levitate,Unknown,Unknown,Grass,Unknown,0,454
+Water,Unknown,Swift, Storm,Water Veil,Water 2,Unknown,0,330
+Water,Unknown,Swift, Storm,Water Veil,Water 2,Unknown,0,460
+Water, Flying,Swift, Water,Water Veil,No Eggs Discovered,Unknown,0,345
+Grass, Ice,Snow,Unknown,Soundproof,Monster, Grass,0,334
+Grass, Ice,Snow,Unknown,Soundproof,Monster, Grass,0,494
+Dark, Ice,Pressure,Unknown,Pickpocket,Field,Unknown,0,510
+Electric, Steel,Magnet, Sturdy,Analytic,Mineral,Unknown,0,535
+Normal,Unknown,Own, Oblivious,Cloud Nine,Monster,Unknown,0,515
+Ground, Rock,Lightning, Solid,Reckless,Monster, Field,0,535
+Grass,Unknown,Chlorophyll, Leaf,Regenerator,Grass,Unknown,0,535
+Electric,Unknown,Motor,Unknown,Vital Spirit,Human-Like,Unknown,0,540
+Fire,Unknown,Flame,Unknown,Vital Spirit,Human-Like,Unknown,0,540
+Fairy, Flying,Hustle, Serene,Super Luck,Flying, Fairy,0,545
+Bug, Flying,Speed, Tinted,Frisk,Bug,Unknown,0,515
+Grass,Unknown,Leaf,Unknown,Chlorophyll,Field,Unknown,0,525
+Ice,Unknown,Snow,Unknown,Ice Body,Field,Unknown,0,525
+Ground, Flying,Hyper, Sand,Poison Heal,Bug,Unknown,0,510
+Ice, Ground,Oblivious, Snow,Thick Fat,Field,Unknown,0,530
+Normal,Unknown,Adaptability, Download,Analytic,Mineral,Unknown,0,535
+Psychic, Fighting,Steadfast, Sharpness ,Justified,Human-LikeGen VIII+, Amorphous,0,518
+Rock, Steel,Sturdy, Magnet,Sand Force,Mineral,Unknown,0,525
+Ghost,Unknown,Pressure,Unknown,Frisk,Amorphous,Unknown,0,525
+Ice, Ghost,Snow,Unknown,Cursed Body,Fairy, Mineral,0,480
+Electric, Ghost,Levitate,Unknown,Unknown,Amorphous,Unknown,0,440
+Psychic,Unknown,Levitate,Unknown,Unknown,Unknown,Unknown,1,580
+Psychic,Unknown,Levitate,Unknown,Unknown,Unknown,Unknown,1,580
+Psychic,Unknown,Levitate,Unknown,Unknown,Unknown,Unknown,1,580
+Steel, Dragon,Pressure,Unknown,Telepathy,Unknown,Unknown,1,680
+Water, Dragon,Pressure,Unknown,Telepathy,Unknown,Unknown,1,680
+Fire, Steel,Flash,Unknown,Flame Body,Unknown,Unknown,1,600
+Normal,Unknown,Slow,Unknown,Unknown,Unknown,Unknown,1,670
+Ghost, Dragon,Pressure,Unknown,Telepathy,Unknown,Unknown,1,680
+Psychic,Unknown,Levitate,Unknown,Unknown,Unknown,Unknown,1,600
+Water,Unknown,Hydration,Unknown,Unknown,Water 1, Fairy,0,480
+Water,Unknown,Hydration,Unknown,Unknown,Water 1, Fairy,0,600
+Dark,Unknown,Bad,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Natural,Unknown,Unknown,Unknown,Unknown,0,600
+Normal,Unknown,Multitype,Unknown,Unknown,Unknown,Unknown,0,720
+Psychic, Fire,Victory,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Contrary,Field, Grass,0,308
+Grass,Unknown,Overgrow,Unknown,Contrary,Field, Grass,0,413
+Grass,Unknown,Overgrow,Unknown,Contrary,Field, Grass,0,528
+Fire,Unknown,Blaze,Unknown,Thick Fat,Field,Unknown,0,308
+Fire, Fighting,Blaze,Unknown,Thick Fat,Field,Unknown,0,418
+Fire, Fighting,Blaze,Unknown,Reckless,Field,Unknown,0,528
+Water,Unknown,Torrent,Unknown,Shell Armor,Field,Unknown,0,308
+Water,Unknown,Torrent,Unknown,Shell Armor,Field,Unknown,0,413
+Water,Unknown,Torrent,Unknown,Shell Armor,Field,Unknown,0,528
+Normal,Unknown,Run, Keen,Analytic,Field,Unknown,0,255
+Normal,Unknown,Illuminate, Keen,Analytic,Field,Unknown,0,420
+Normal,Unknown,Vital, Pickup,Run Away,Field,Unknown,0,275
+Normal,Unknown,Intimidate, Sand,Scrappy,Field,Unknown,0,370
+Normal,Unknown,Intimidate, Sand,Scrappy,Field,Unknown,0,490
+Dark,Unknown,Limber, Unburden,Prankster,Field,Unknown,0,281
+Dark,Unknown,Limber, Unburden,Prankster,Field,Unknown,0,446
+Grass,Unknown,Gluttony,Unknown,Overgrow,Field,Unknown,0,316
+Grass,Unknown,Gluttony,Unknown,Overgrow,Field,Unknown,0,498
+Fire,Unknown,Gluttony,Unknown,Blaze,Field,Unknown,0,316
+Fire,Unknown,Gluttony,Unknown,Blaze,Field,Unknown,0,498
+Water,Unknown,Gluttony,Unknown,Torrent,Field,Unknown,0,316
+Water,Unknown,Gluttony,Unknown,Torrent,Field,Unknown,0,498
+Psychic,Unknown,Forewarn, Synchronize,Telepathy,Field,Unknown,0,292
+Psychic,Unknown,Forewarn, Synchronize,Telepathy,Field,Unknown,0,487
+Normal, Flying,Big, Super,Rivalry,Flying,Unknown,0,264
+Normal, Flying,Big, Super,Rivalry,Flying,Unknown,0,358
+Normal, Flying,Big, Super,Rivalry,Flying,Unknown,0,478
+Electric,Unknown,Lightning, Motor,Sap Sipper,Field,Unknown,0,295
+Electric,Unknown,Lightning, Motor,Sap Sipper,Field,Unknown,0,497
+Rock,Unknown,Sturdy, Weak,Sand Force,Mineral,Unknown,0,280
+Rock,Unknown,Sturdy, Weak,Sand Force,Mineral,Unknown,0,390
+Rock,Unknown,Sturdy, Sand,Sand Force,Mineral,Unknown,0,505
+Psychic, Flying,Unaware, Klutz,Simple,Field, Flying,0,313
+Psychic, Flying,Unaware, Klutz,Simple,Field, Flying,0,425
+Ground,Unknown,Sand, Sand,Mold Breaker,Field,Unknown,0,328
+Ground, Steel,Sand, Sand,Mold Breaker,Field,Unknown,0,508
+Normal,Unknown,Healer, Regenerator,Klutz,Fairy,Unknown,0,445
+Fighting,Unknown,Guts, Sheer,Iron Fist,Human-Like,Unknown,0,305
+Fighting,Unknown,Guts, Sheer,Iron Fist,Human-Like,Unknown,0,405
+Fighting,Unknown,Guts, Sheer,Iron Fist,Human-Like,Unknown,0,505
+Water,Unknown,Swift, Hydration,Water Absorb,Water 1,Unknown,0,294
+Water, Ground,Swift, Hydration,Water Absorb,Water 1,Unknown,0,384
+Water, Ground,Swift, Poison,Water Absorb,Water 1,Unknown,0,499
+Fighting,Unknown,Guts, Inner,Mold Breaker,Human-Like,Unknown,0,465
+Fighting,Unknown,Sturdy, Inner,Mold Breaker,Human-Like,Unknown,0,465
+Bug, Grass,Swarm, Chlorophyll,Overcoat,Bug,Unknown,0,310
+Bug, Grass,Leaf, Chlorophyll,Overcoat,Bug,Unknown,0,380
+Bug, Grass,Swarm, Chlorophyll,Overcoat,Bug,Unknown,0,490
+Bug, Poison,Poison, Swarm,Speed Boost,Bug,Unknown,0,260
+Bug, Poison,Poison, Swarm,Speed Boost,Bug,Unknown,0,360
+Bug, Poison,Poison, Swarm,Speed Boost,Bug,Unknown,0,475
+Grass, Fairy,Prankster, Infiltrator,Chlorophyll,Grass, Fairy,0,280
+Grass, Fairy,Prankster, Infiltrator,Chlorophyll,Grass, Fairy,0,480
+Grass,Unknown,Chlorophyll, Own,Leaf Guard,Grass,Unknown,0,280
+Grass,Unknown,Chlorophyll, Own,Leaf Guard,Grass,Unknown,0,480
+Water,Unknown,Reckless , AdaptabilityRed Striped,Mold Breaker,Water 2,Unknown,0,460
+Ground, Dark,Intimidate, Moxie,Anger Point,Field,Unknown,0,292
+Ground, Dark,Intimidate, Moxie,Anger Point,Field,Unknown,0,351
+Ground, Dark,Intimidate, Moxie,Anger Point,Field,Unknown,0,509
+Fire,Unknown,Hustle,Unknown,Inner Focus,Field,Unknown,0,315
+Fire,Unknown,Sheer,Unknown,Zen Mode,Field,Unknown,0,480
+Grass,Unknown,Water, Chlorophyll,Storm Drain,Grass,Unknown,0,461
+Bug, Rock,Sturdy, Shell,Weak Armor,Bug, Mineral,0,325
+Bug, Rock,Sturdy, Shell,Weak Armor,Bug, Mineral,0,475
+Dark, Fighting,Shed, Moxie,Intimidate,Field, Dragon,0,348
+Dark, Fighting,Shed, Moxie,Intimidate,Field, Dragon,0,488
+Psychic, Flying,Wonder, Magic,Tinted Lens,Flying,Unknown,0,490
+Ghost,Unknown,Mummy,Unknown,Unknown,Mineral, Amorphous,0,303
+Ghost,Unknown,Mummy,Unknown,Unknown,Mineral, Amorphous,0,483
+Water, Rock,Solid, Sturdy,Swift Swim,Water 1, Water 3,0,355
+Water, Rock,Solid, Sturdy,Swift Swim,Water 1, Water 3,0,495
+Rock, Flying,Defeatist,Unknown,Unknown,Flying, Water 3,0,401
+Rock, Flying,Defeatist,Unknown,Unknown,Flying, Water 3,0,567
+Poison,Unknown,Stench, Sticky,Aftermath,Mineral,Unknown,0,329
+Poison,Unknown,Stench, Weak,Aftermath,Mineral,Unknown,0,474
+Dark,Unknown,Illusion,Unknown,Unknown,Field,Unknown,0,330
+Dark,Unknown,Illusion,Unknown,Unknown,Field,Unknown,0,510
+Normal,Unknown,Cute, Technician,Skill Link,Field,Unknown,0,300
+Normal,Unknown,Cute, Technician,Skill Link,Field,Unknown,0,470
+Psychic,Unknown,Frisk, Competitive,Shadow Tag,Human-Like,Unknown,0,290
+Psychic,Unknown,Frisk, Competitive,Shadow Tag,Human-Like,Unknown,0,390
+Psychic,Unknown,Frisk, Competitive,Shadow Tag,Human-Like,Unknown,0,490
+Psychic,Unknown,Overcoat, Magic,Regenerator,Amorphous,Unknown,0,290
+Psychic,Unknown,Overcoat, Magic,Regenerator,Amorphous,Unknown,0,370
+Psychic,Unknown,Overcoat, Magic,Regenerator,Amorphous,Unknown,0,490
+Water, Flying,Keen, Big,Hydration,Water 1, Flying,0,305
+Water, Flying,Keen, Big,Hydration,Water 1, Flying,0,473
+Ice,Unknown,Ice, Snow,Weak Armor,Mineral,Unknown,0,305
+Ice,Unknown,Ice, Snow,Weak Armor,Mineral,Unknown,0,395
+Ice,Unknown,Ice, Snow,Weak Armor,Mineral,Unknown,0,535
+Normal, Grass,Chlorophyll, Sap,Serene Grace,Field,Unknown,0,335
+Normal, Grass,Chlorophyll, Sap,Serene Grace,Field,Unknown,0,475
+Electric, Flying,Static,Unknown,Motor Drive,Field,Unknown,0,428
+Bug,Unknown,Swarm, Shed,No Guard,Bug,Unknown,0,315
+Bug, Steel,Swarm, Shell,Overcoat,Bug,Unknown,0,495
+Grass, Poison,Effect,Unknown,Regenerator,Grass,Unknown,0,294
+Grass, Poison,Effect,Unknown,Regenerator,Grass,Unknown,0,464
+Water, Ghost,Water, Cursed,Damp,Amorphous,Unknown,0,335
+Water, Ghost,Water, Cursed,Damp,Amorphous,Unknown,0,480
+Water,Unknown,Healer, Hydration,Regenerator,Water 1, Water 2,0,470
+Bug, Electric,Compound, Unnerve,Swarm,Bug,Unknown,0,319
+Bug, Electric,Compound, Unnerve,Swarm,Bug,Unknown,0,472
+Grass, Steel,Iron,Unknown,Unknown,Grass, Mineral,0,305
+Grass, Steel,Iron,Unknown,Anticipation,Grass, Mineral,0,489
+Steel,Unknown,Plus, Minus,Clear Body,Mineral,Unknown,0,300
+Steel,Unknown,Plus, Minus,Clear Body,Mineral,Unknown,0,440
+Steel,Unknown,Plus, Minus,Clear Body,Mineral,Unknown,0,520
+Electric,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,275
+Electric,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,405
+Electric,Unknown,Levitate,Unknown,Unknown,Amorphous,Unknown,0,515
+Psychic,Unknown,Telepathy, Synchronize,Analytic,Human-Like,Unknown,0,335
+Psychic,Unknown,Telepathy, Synchronize,Analytic,Human-Like,Unknown,0,485
+Ghost, Fire,Flash, Flame,Infiltrator,Amorphous,Unknown,0,275
+Ghost, Fire,Flash, Flame,Infiltrator,Amorphous,Unknown,0,370
+Ghost, Fire,Flash, Flame,Infiltrator,Amorphous,Unknown,0,520
+Dragon,Unknown,Rivalry, Mold,Unnerve,Monster, Dragon,0,320
+Dragon,Unknown,Rivalry, Mold,Unnerve,Monster, Dragon,0,410
+Dragon,Unknown,Rivalry, Mold,Unnerve,Monster, Dragon,0,540
+Ice,Unknown,Snow, Slush,Rattled,Field,Unknown,0,305
+Ice,Unknown,Snow, Slush,Swift Swim,Field,Unknown,0,485
+Ice,Unknown,Levitate,Unknown,Unknown,Mineral,Unknown,0,485
+Bug,Unknown,Hydration, Shell,Overcoat,Bug,Unknown,0,305
+Bug,Unknown,Hydration, Sticky,Unburden,Bug,Unknown,0,495
+Ground, Electric,Static, Limber,Sand Veil,Water 1, Amorphous,0,471
+Fighting,Unknown,Inner, Regenerator,Reckless,Field, Human-Like,0,350
+Fighting,Unknown,Inner, Regenerator,Reckless,Field, Human-Like,0,510
+Dragon,Unknown,Rough, Sheer,Mold Breaker,Dragon, Monster,0,485
+Ground, Ghost,Iron, Klutz,No Guard,Mineral,Unknown,0,303
+Ground, Ghost,Iron, Klutz,No Guard,Mineral,Unknown,0,483
+Dark, Steel,Defiant, Inner,Pressure,Human-Like,Unknown,0,340
+Dark, Steel,Defiant, Inner,Pressure,Human-Like,Unknown,0,490
+Normal,Unknown,Reckless, Sap,Soundproof,Field,Unknown,0,490
+Normal, Flying,Keen, Sheer,Hustle,Flying,Unknown,0,350
+Normal, Flying,Keen, Sheer,Defiant,Flying,Unknown,0,510
+Dark, Flying,Big, Overcoat,Weak Armor,Flying,Unknown,0,370
+Dark, Flying,Big, Overcoat,Weak Armor,Flying,Unknown,0,510
+Fire,Unknown,Gluttony, Flash,White Smoke,Field,Unknown,0,484
+Bug, Steel,Swarm, Hustle,Truant,Bug,Unknown,0,484
+Dark, Dragon,Hustle,Unknown,Unknown,Dragon,Unknown,0,300
+Dark, Dragon,Hustle,Unknown,Unknown,Dragon,Unknown,0,420
+Dark, Dragon,Levitate,Unknown,Unknown,Dragon,Unknown,0,600
+Bug, Fire,Flame,Unknown,Swarm,Bug,Unknown,0,360
+Bug, Fire,Flame,Unknown,Swarm,Bug,Unknown,0,550
+Steel, Fighting,Justified,Unknown,Unknown,Unknown,Unknown,1,580
+Rock, Fighting,Justified,Unknown,Unknown,Unknown,Unknown,1,580
+Grass, Fighting,Justified,Unknown,Unknown,Unknown,Unknown,1,580
+Flying,Unknown,Prankster,Unknown,Defiant,Unknown,Unknown,1,580
+Electric, Flying,Prankster,Unknown,Defiant,Unknown,Unknown,1,580
+Dragon, Fire,Turboblaze,Unknown,Unknown,Unknown,Unknown,1,680
+Dragon, Electric,Teravolt,Unknown,Unknown,Unknown,Unknown,1,680
+Ground, Flying,Sand,Unknown,Sheer Force,Unknown,Unknown,1,600
+Dragon, Ice,Pressure,Unknown,Unknown,Unknown,Unknown,1,660
+Water, Fighting,Justified,Unknown,Unknown,Unknown,Unknown,0,580
+Normal, Psychic,Serene,Unknown,Unknown,Unknown,Unknown,0,600
+Bug, Steel,Download,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Bulletproof,Field,Unknown,0,313
+Grass,Unknown,Overgrow,Unknown,Bulletproof,Field,Unknown,0,405
+Grass, Fighting,Overgrow,Unknown,Bulletproof,Field,Unknown,0,530
+Fire,Unknown,Blaze,Unknown,Magician,Field,Unknown,0,307
+Fire,Unknown,Blaze,Unknown,Magician,Field,Unknown,0,409
+Fire, Psychic,Blaze,Unknown,Magician,Field,Unknown,0,534
+Water,Unknown,Torrent,Unknown,Protean,Water 1,Unknown,0,314
+Water,Unknown,Torrent,Unknown,Protean,Water 1,Unknown,0,405
+Water, Dark,Torrent,Unknown,Protean,Water 1Greninja, No Eggs DiscoveredBattle Bond Greninja,0,530
+Normal,Unknown,Pickup, Cheek,Huge Power,Field,Unknown,0,237
+Normal, Ground,Pickup, Cheek,Huge Power,Field,Unknown,0,423
+Normal, Flying,Big,Unknown,Gale Wings,Flying,Unknown,0,278
+Fire, Flying,Flame,Unknown,Gale Wings,Flying,Unknown,0,382
+Fire, Flying,Flame,Unknown,Gale Wings,Flying,Unknown,0,499
+Bug,Unknown,Shield, Compound,Friend Guard,Bug,Unknown,0,200
+Bug,Unknown,Shed,Unknown,Friend Guard,Bug,Unknown,0,213
+Bug, Flying,Shield, Compound,Friend Guard,Bug,Unknown,0,411
+Fire, Normal,Rivalry, Unnerve,Moxie,Field,Unknown,0,369
+Fire, Normal,Rivalry, Unnerve,Moxie,Field,Unknown,0,507
+Fairy,Unknown,Flower,Unknown,Symbiosis,Fairy,Unknown,0,303
+Fairy,Unknown,Flower,Unknown,Symbiosis,Fairy,Unknown,0,371
+Fairy,Unknown,Flower,Unknown,Symbiosis,Fairy,Unknown,0,552
+Grass,Unknown,Sap,Unknown,Grass Pelt,Field,Unknown,0,350
+Grass,Unknown,Sap,Unknown,Grass Pelt,Field,Unknown,0,531
+Fighting,Unknown,Iron, Mold,Scrappy,Field, Human-Like,0,348
+Fighting, Dark,Iron, Mold,Scrappy,Field, Human-Like,0,495
+Normal,Unknown,Fur,Unknown,Unknown,Field,Unknown,0,472
+Psychic,Unknown,Keen, Infiltrator,Own Tempo,Field,Unknown,0,355
+Psychic,Unknown,Keen, Infiltrator,Prankster,Field,Unknown,0,466
+Steel, Ghost,No,Unknown,Unknown,Mineral,Unknown,0,325
+Steel, Ghost,No,Unknown,Unknown,Mineral,Unknown,0,448
+Steel, Ghost,Stance,Unknown,Unknown,Mineral,Unknown,0,520
+Fairy,Unknown,Healer,Unknown,Aroma Veil,Fairy,Unknown,0,341
+Fairy,Unknown,Healer,Unknown,Aroma Veil,Fairy,Unknown,0,462
+Fairy,Unknown,Sweet,Unknown,Unburden,Fairy,Unknown,0,341
+Fairy,Unknown,Sweet,Unknown,Unburden,Fairy,Unknown,0,480
+Dark, Psychic,Contrary, Suction,Infiltrator,Water 1, Water 2,0,288
+Dark, Psychic,Contrary, Suction,Infiltrator,Water 1, Water 2,0,482
+Rock, Water,Tough, Sniper,Pickpocket,Water 3,Unknown,0,306
+Rock, Water,Tough, Sniper,Pickpocket,Water 3,Unknown,0,500
+Poison, Water,Poison, Poison,Adaptability,Water 1, Dragon,0,320
+Poison, Dragon,Poison, Poison,Adaptability,Water 1, Dragon,0,494
+Water,Unknown,Launcher,Unknown,Unknown,Water 1, Water 3,0,330
+Water,Unknown,Launcher,Unknown,Unknown,Water 1, Water 3,0,500
+Electric, Normal,Dry, Sand,Solar Power,Monster, Dragon,0,289
+Electric, Normal,Dry, Sand,Solar Power,Monster, Dragon,0,481
+Rock, Dragon,Strong,Unknown,Sturdy,Monster, Dragon,0,362
+Rock, Dragon,Strong,Unknown,Rock Head,Monster, Dragon,0,521
+Rock, Ice,Refrigerate,Unknown,Snow Warning,Monster,Unknown,0,362
+Rock, Ice,Refrigerate,Unknown,Snow Warning,Monster,Unknown,0,521
+Fairy,Unknown,Cute,Unknown,Pixilate,Field,Unknown,0,525
+Fighting, Flying,Limber, Unburden,Mold Breaker,FlyingGen VIII+, Human-Like,0,500
+Electric, Fairy,Cheek, Pickup,Plus,Field, Fairy,0,431
+Rock, Fairy,Clear,Unknown,Sturdy,Fairy, Mineral,0,500
+Dragon,Unknown,Sap, Hydration,Gooey,Dragon,Unknown,0,300
+Dragon,Unknown,Sap, Hydration,Gooey,Dragon,Unknown,0,452
+Dragon,Unknown,Sap, Hydration,Gooey,Dragon,Unknown,0,600
+Steel, Fairy,Prankster,Unknown,Magician,Mineral,Unknown,0,470
+Ghost, Grass,Natural, Frisk,Harvest,Grass, Amorphous,0,309
+Ghost, Grass,Natural, Frisk,Harvest,Grass, Amorphous,0,474
+Ghost, Grass,Pickup, Frisk,Insomnia,Amorphous,Unknown,0,335
+Ghost, Grass,Pickup, Frisk,Insomnia,Amorphous,Unknown,0,494
+Ice,Unknown,Own, Ice,Sturdy,Monster, MineralGen VIII+,0,304
+Ice,Unknown,Own, Ice,Sturdy,Monster, MineralGen VIII+,0,514
+Flying, Dragon,Frisk, Infiltrator,Telepathy,Flying, DragonGen VIII+,0,245
+Flying, Dragon,Frisk, Infiltrator,Telepathy,Flying, DragonGen VIII+,0,535
+Fairy,Unknown,Fairy,Unknown,Unknown,Unknown,Unknown,1,680
+Dark, Flying,Dark,Unknown,Unknown,Unknown,Unknown,1,680
+Dragon, Ground,Aura,Unknown,Unknown,Unknown,Unknown,1,600
+Rock, Fairy,Clear,Unknown,Unknown,Unknown,Unknown,0,600
+Psychic, Ghost,Magician,Unknown,Unknown,Unknown,Unknown,0,600
+Fire, Water,Water,Unknown,Unknown,Unknown,Unknown,0,600
+Grass, Flying,Overgrow,Unknown,Long Reach,Flying,Unknown,0,320
+Grass, Flying,Overgrow,Unknown,Long Reach,Flying,Unknown,0,420
+Grass, Ghost,Overgrow,Unknown,Long Reach,Flying,Unknown,0,530
+Fire,Unknown,Blaze,Unknown,Intimidate,Field,Unknown,0,320
+Fire,Unknown,Blaze,Unknown,Intimidate,Field,Unknown,0,420
+Fire, Dark,Blaze,Unknown,Intimidate,Field,Unknown,0,530
+Water,Unknown,Torrent,Unknown,Liquid Voice,Water 1, Field,0,320
+Water,Unknown,Torrent,Unknown,Liquid Voice,Water 1, Field,0,420
+Water, Fairy,Torrent,Unknown,Liquid Voice,Water 1, Field,0,530
+Normal, Flying,Keen, Skill,Pickup,Flying,Unknown,0,265
+Normal, Flying,Keen, Skill,Pickup,Flying,Unknown,0,355
+Normal, Flying,Keen, Skill,Sheer Force,Flying,Unknown,0,485
+Normal,Unknown,Stakeout, Strong,Adaptability,Field,Unknown,0,253
+Normal,Unknown,Stakeout, Strong,Adaptability,Field,Unknown,0,418
+Bug,Unknown,Swarm,Unknown,Unknown,Bug,Unknown,0,300
+Bug, Electric,Battery,Unknown,Unknown,Bug,Unknown,0,400
+Bug, Electric,Levitate,Unknown,Unknown,Bug,Unknown,0,500
+Fighting,Unknown,Hyper, Iron,Anger Point,Water 3,Unknown,0,338
+Fighting, Ice,Hyper, Iron,Anger Point,Water 3,Unknown,0,478
+Fire, Flying,Dancer,Unknown,Unknown,Flying,Unknown,0,476
+Bug, Fairy,Honey, Shield,Sweet Veil,Bug, Fairy,0,304
+Bug, Fairy,Honey, Shield,Sweet Veil,Bug, Fairy,0,464
+Rock,Unknown,Keen, Vital,Steadfast,Field,Unknown,0,280
+Rock,Unknown,Keen, Sand,Steadfast,Field,Unknown,0,487
+Water,Unknown,Schooling,Unknown,Unknown,Water 2,Unknown,0,175
+Poison, Water,Merciless, Limber,Regenerator,Water 1,Unknown,0,305
+Poison, Water,Merciless, Limber,Regenerator,Water 1,Unknown,0,495
+Ground,Unknown,Own, Stamina,Inner Focus,Field,Unknown,0,385
+Ground,Unknown,Own, Stamina,Inner Focus,Field,Unknown,0,500
+Water, Bug,Water,Unknown,Water Absorb,Water 1, Bug,0,269
+Water, Bug,Water,Unknown,Water Absorb,Water 1, Bug,0,454
+Grass,Unknown,Leaf,Unknown,Contrary,Grass,Unknown,0,250
+Grass,Unknown,Leaf,Unknown,Contrary,Grass,Unknown,0,480
+Grass, Fairy,Illuminate, Effect,Rain Dish,Grass,Unknown,0,285
+Grass, Fairy,Illuminate, Effect,Rain Dish,Grass,Unknown,0,405
+Poison, Fire,Corrosion,Unknown,Oblivious,Monster, Dragon,0,320
+Poison, Fire,Corrosion,Unknown,Oblivious,Monster, Dragon,0,480
+Normal, Fighting,Fluffy, Klutz,Cute Charm,Field,Unknown,0,340
+Normal, Fighting,Fluffy, Klutz,Unnerve,Field,Unknown,0,500
+Grass,Unknown,Leaf, Oblivious,Sweet Veil,Grass,Unknown,0,210
+Grass,Unknown,Leaf, Oblivious,Sweet Veil,Grass,Unknown,0,290
+Grass,Unknown,Leaf, Queenly,Sweet Veil,Grass,Unknown,0,510
+Fairy,Unknown,Flower, Triage,Natural Cure,Grass,Unknown,0,485
+Normal, Psychic,Inner, Telepathy,Symbiosis,Field,Unknown,0,490
+Fighting,Unknown,Receiver,Unknown,Defiant,Field,Unknown,0,490
+Bug, Water,Wimp,Unknown,Unknown,Bug, Water 3,0,230
+Bug, Water,Emergency,Unknown,Unknown,Bug, Water 3,0,530
+Ghost, Ground,Water,Unknown,Sand Veil,Amorphous,Unknown,0,320
+Ghost, Ground,Water,Unknown,Sand Veil,Amorphous,Unknown,0,480
+Water,Unknown,Innards,Unknown,Unaware,Water 1,Unknown,0,410
+Normal,Unknown,Battle,Unknown,Unknown,Unknown,Unknown,1,534
+Normal,Unknown,RKS,Unknown,Unknown,Unknown,Unknown,1,570
+Rock, Flying,Shields,Unknown,Unknown,Mineral,Unknown,0,440
+Normal,Unknown,Comatose,Unknown,Unknown,Field,Unknown,0,480
+Fire, Dragon,Shell,Unknown,Unknown,Monster, Dragon,0,485
+Electric, Steel,Iron, Lightning,Sturdy,Field, Fairy,0,435
+Ghost, Fairy,Disguise,Unknown,Unknown,Amorphous,Unknown,0,476
+Water, Psychic,Dazzling, Strong,Wonder Skin,Water 2,Unknown,0,475
+Normal, Dragon,Berserk, Sap,Cloud Nine,Monster, Dragon,0,485
+Ghost, Grass,Steelworker,Unknown,Unknown,Mineral,Unknown,0,517
+Dragon,Unknown,Bulletproof, Soundproof,Overcoat,Dragon,Unknown,0,300
+Dragon, Fighting,Bulletproof, Soundproof,Overcoat,Dragon,Unknown,0,420
+Dragon, Fighting,Bulletproof, Soundproof,Overcoat,Dragon,Unknown,0,600
+Electric, Fairy,Electric,Unknown,Telepathy,Unknown,Unknown,1,570
+Psychic, Fairy,Psychic,Unknown,Telepathy,Unknown,Unknown,1,570
+Grass, Fairy,Grassy,Unknown,Telepathy,Unknown,Unknown,1,570
+Water, Fairy,Misty,Unknown,Telepathy,Unknown,Unknown,1,570
+Psychic,Unknown,Unaware,Unknown,Unknown,Unknown,Unknown,1,200
+Psychic,Unknown,Sturdy,Unknown,Unknown,Unknown,Unknown,1,400
+Psychic, Steel,Full,Unknown,Unknown,Unknown,Unknown,1,680
+Psychic, Ghost,Shadow,Unknown,Unknown,Unknown,Unknown,1,680
+Rock, Poison,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Bug, Fighting,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Bug, Fighting,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Electric,Unknown,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Steel, Flying,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Grass, Steel,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Dark, Dragon,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Psychic,Unknown,Prism,Unknown,Unknown,Unknown,Unknown,1,600
+Steel, Fairy,Soul Heart,Unknown,Unknown,Unknown,Unknown,0,600
+Fighting, Ghost,Technician,Unknown,Unknown,Unknown,Unknown,0,600
+Poison,Unknown,Beast,Unknown,Unknown,Unknown,Unknown,0,420
+Poison, Dragon,Beast,Unknown,Unknown,Unknown,Unknown,0,540
+Rock, Steel,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Fire, Ghost,Beast,Unknown,Unknown,Unknown,Unknown,0,570
+Electric,Unknown,Volt,Unknown,Unknown,Unknown,Unknown,0,600
+Steel,Unknown,Magnet,Unknown,Unknown,Unknown,Unknown,0,300
+Steel,Unknown,Iron,Unknown,Unknown,Unknown,Unknown,0,600
+Grass,Unknown,Overgrow,Unknown,Grassy Surge,Field, Grass,0,310
+Grass,Unknown,Overgrow,Unknown,Grassy Surge,Field, Grass,0,420
+Grass,Unknown,Overgrow,Unknown,Grassy Surge,Field, Grass,0,530
+Fire,Unknown,Blaze,Unknown,Libero,Field, Human-Like,0,310
+Fire,Unknown,Blaze,Unknown,Libero,Field, Human-Like,0,420
+Fire,Unknown,Blaze,Unknown,Libero,Field, Human-Like,0,530
+Water,Unknown,Torrent,Unknown,Sniper,Water 1, Field,0,310
+Water,Unknown,Torrent,Unknown,Sniper,Water 1, Field,0,420
+Water,Unknown,Torrent,Unknown,Sniper,Water 1, Field,0,530
+Normal,Unknown,Cheek,Unknown,Gluttony,Field,Unknown,0,275
+Normal,Unknown,Cheek,Unknown,Gluttony,Field,Unknown,0,460
+Flying,Unknown,Keen, Unnerve,Big Pecks,Flying,Unknown,0,245
+Flying,Unknown,Keen, Unnerve,Big Pecks,Flying,Unknown,0,365
+Flying, Steel,Pressure, Unnerve,Mirror Armor,Flying,Unknown,0,495
+Bug,Unknown,Swarm, Compound,Telepathy,Bug,Unknown,0,180
+Bug, Psychic,Swarm, Compound,Telepathy,Bug,Unknown,0,335
+Bug, Psychic,Swarm, Frisk,Telepathy,Bug,Unknown,0,505
+Dark,Unknown,Run, Unburden,Stakeout,Field,Unknown,0,245
+Dark,Unknown,Run, Unburden,Stakeout,Field,Unknown,0,455
+Grass,Unknown,Cotton, Regenerator,Effect Spore,Grass,Unknown,0,250
+Grass,Unknown,Cotton, Regenerator,Effect Spore,Grass,Unknown,0,460
+Normal,Unknown,Fluffy, Run,Bulletproof,Field,Unknown,0,270
+Normal,Unknown,Fluffy, Steadfast,Bulletproof,Field,Unknown,0,490
+Water,Unknown,Strong, Shell,Swift Swim,Monster, Water 1,0,284
+Water, Rock,Strong, Shell,Swift Swim,Monster, Water 1,0,485
+Electric,Unknown,Ball,Unknown,Rattled,Field,Unknown,0,270
+Electric,Unknown,Strong,Unknown,Competitive,Field,Unknown,0,490
+Rock,Unknown,Steam, Heatproof,Flash Fire,Mineral,Unknown,0,240
+Rock, Fire,Steam, Flame,Flash Fire,Mineral,Unknown,0,410
+Rock, Fire,Steam, Flame,Flash Fire,Mineral,Unknown,0,510
+Grass, Dragon,Ripen, Gluttony,Bulletproof,Grass, Dragon,0,260
+Grass, Dragon,Ripen, Gluttony,Hustle,Grass, Dragon,0,485
+Grass, Dragon,Ripen, Gluttony,Thick Fat,Grass, Dragon,0,485
+Ground,Unknown,Sand, Shed,Sand Veil,Field, Dragon,0,315
+Ground,Unknown,Sand, Shed,Sand Veil,Field, Dragon,0,510
+Flying, Water,Gulp,Unknown,Unknown,Water 1, Flying,0,475
+Water,Unknown,Swift,Unknown,Propeller Tail,Water 2,Unknown,0,280
+Water,Unknown,Swift,Unknown,Propeller Tail,Water 2,Unknown,0,490
+Electric, Poison,Rattled, Static,Klutz,No Eggs Discovered,Unknown,0,242
+Electric, Poison,Punk, PlusAmped,Technician,Human-Like,Unknown,0,502
+Fire, Bug,Flash, White,Flame Body,Bug,Unknown,0,305
+Fire, Bug,Flash, White,Flame Body,Bug,Unknown,0,525
+Fighting,Unknown,Limber,Unknown,Technician,Water 1, Human-Like,0,310
+Fighting,Unknown,Limber,Unknown,Technician,Water 1, Human-Like,0,480
+Ghost,Unknown,Weak,Unknown,Cursed Body,Mineral, Amorphous,0,308
+Ghost,Unknown,Weak,Unknown,Cursed Body,Mineral, Amorphous,0,508
+Psychic,Unknown,Healer, Anticipation,Magic Bounce,Fairy,Unknown,0,265
+Psychic,Unknown,Healer, Anticipation,Magic Bounce,Fairy,Unknown,0,370
+Psychic, Fairy,Healer, Anticipation,Magic Bounce,Fairy,Unknown,0,510
+Dark, Fairy,Prankster, Frisk,Pickpocket,Fairy, Human-Like,0,265
+Dark, Fairy,Prankster, Frisk,Pickpocket,Fairy, Human-Like,0,370
+Dark, Fairy,Prankster, Frisk,Pickpocket,Fairy, Human-Like,0,510
+Dark, Normal,Reckless, Guts,Defiant,Field,Unknown,0,520
+Steel,Unknown,Battle, Tough,Steely Spirit,Field,Unknown,0,440
+Ghost,Unknown,Weak,Unknown,Perish Body,Water 1, Water 3,0,510
+Fighting,Unknown,Steadfast,Unknown,Scrappy,Flying, Field,0,507
+Ice, Psychic,Tangled, Screen,Ice Body,Human-Like,Unknown,0,520
+Ground, Ghost,Wandering,Unknown,Unknown,Mineral, Amorphous,0,483
+Fairy,Unknown,Sweet,Unknown,Aroma Veil,Fairy, Amorphous,0,270
+Fairy,Unknown,Sweet,Unknown,Aroma Veil,Fairy, Amorphous,0,495
+Fighting,Unknown,Battle,Unknown,Defiant,Fairy, Mineral,0,470
+Electric,Unknown,Lightning,Unknown,Electric Surge,Water 1, Amorphous,0,435
+Ice, Bug,Shield,Unknown,Ice Scales,Bug,Unknown,0,185
+Ice, Bug,Shield,Unknown,Ice Scales,Bug,Unknown,0,475
+Rock,Unknown,Power,Unknown,Unknown,Mineral,Unknown,0,470
+Ice,Unknown,Ice,Unknown,Unknown,Water 1, Field,0,470
+Psychic, Normal,Inner, SynchronizeMale,Psychic Surge,Fairy,Unknown,0,475
+Electric, Dark,Hunger,Unknown,Unknown,Field, Fairy,0,436
+Steel,Unknown,Sheer,Unknown,Heavy Metal,Field, Mineral,0,330
+Steel,Unknown,Sheer,Unknown,Heavy Metal,Field, Mineral,0,500
+Electric, Dragon,Volt, Hustle,Sand Rush,Unknown,Unknown,0,505
+Electric, Ice,Volt, Static,Slush Rush,Unknown,Unknown,0,505
+Water, Dragon,Water, Strong,Sand Rush,Unknown,Unknown,0,505
+Water, Ice,Water, Ice,Slush Rush,Unknown,Unknown,0,505
+Steel, Dragon,Light, Heavy,Stalwart,Mineral, Dragon,0,535
+Dragon, Ghost,Clear, Infiltrator,Cursed Body,Amorphous, Dragon,0,270
+Dragon, Ghost,Clear, Infiltrator,Cursed Body,Amorphous, Dragon,0,410
+Dragon, Ghost,Clear, Infiltrator,Cursed Body,Amorphous, Dragon,0,600
+Fairy,Unknown,Intrepid,Unknown,Unknown,Unknown,Unknown,1,670
+Fighting,Unknown,Dauntless,Unknown,Unknown,Unknown,Unknown,1,670
+Poison, Dragon,Pressure,Unknown,Unknown,Unknown,Unknown,1,690
+Fighting,Unknown,Inner,Unknown,Unknown,Unknown,Unknown,1,385
+Fighting, Dark,Unseen,Unknown,Unknown,Unknown,Unknown,1,550
+Dark, Grass,Leaf,Unknown,Unknown,Unknown,Unknown,0,600
+Electric,Unknown,Transistor,Unknown,Unknown,Unknown,Unknown,1,580
+Dragon,Unknown,Dragon s,Unknown,Unknown,Unknown,Unknown,1,580
+Ice,Unknown,Chilling,Unknown,Unknown,Unknown,Unknown,1,580
+Ghost,Unknown,Grim,Unknown,Unknown,Unknown,Unknown,1,580
+Psychic, Grass,Unnerve,Unknown,Unknown,Unknown,Unknown,1,500
+Normal, Psychic,Intimidate, Frisk,Sap Sipper,Field,Unknown,0,525
+Bug, Rock,Swarm, Sheer,Sharpness,Bug,Unknown,0,500
+Ground, Normal,Guts, Bulletproof,Unnerve,Field,Unknown,0,550
+Water, Ghost,Swift, Adaptability,Mold Breaker,Water 2,Unknown,0,530
+Fighting, Poison,Pressure, Unburden ,Poison Touch,Field,Unknown,0,510
+Dark, Poison,Poison, Swift,Intimidate,Water 2,Unknown,0,510
+Fairy, Flying,Cute,Unknown,Contrary,Unknown,Unknown,1,580
+Grass,Unknown,Overgrow,Unknown,Protean,Field, Grass,0,310
+Grass,Unknown,Overgrow,Unknown,Protean,Field, Grass,0,410
+Grass, Dark,Overgrow,Unknown,Protean,Field, Grass,0,530
+Fire,Unknown,Blaze,Unknown,Unaware,Field,Unknown,0,310
+Fire,Unknown,Blaze,Unknown,Unaware,Field,Unknown,0,411
+Fire, Ghost,Blaze,Unknown,Unaware,Field,Unknown,0,530
+Water,Unknown,Torrent,Unknown,Moxie,Flying, Water 1,0,310
+Water,Unknown,Torrent,Unknown,Moxie,Flying, Water 1,0,410
+Water, Fighting,Torrent,Unknown,Moxie,Flying, Water 1,0,530
+Normal,Unknown,Aroma, Gluttony,Thick Fat,Field,Unknown,0,254
+Normal,Unknown,Lingering, GluttonyMale,Thick Fat,Field,Unknown,0,489
+Bug,Unknown,Insomnia,Unknown,Stakeout,Bug,Unknown,0,210
+Bug,Unknown,Insomnia,Unknown,Stakeout,Bug,Unknown,0,404
+Bug,Unknown,Swarm,Unknown,Tinted Lens,Bug,Unknown,0,210
+Bug, Dark,Swarm,Unknown,Tinted Lens,Bug,Unknown,0,450
+Electric,Unknown,Static, Natural,Iron Fist,Field,Unknown,0,240
+Electric, Fighting,Volt, Natural,Iron Fist,Field,Unknown,0,350
+Electric, Fighting,Volt, Natural,Iron Fist,Field,Unknown,0,490
+Normal,Unknown,Run, Pickup,Own Tempo,Field, Fairy,0,305
+Normal,Unknown,Friend, Cheek,Technician,Field, Fairy,0,470
+Fairy,Unknown,Own,Unknown,Klutz,Field, Mineral,0,312
+Fairy,Unknown,Well Baked,Unknown,Aroma Veil,Field, Mineral,0,477
+Grass, Normal,Early,Unknown,Harvest,Grass,Unknown,0,260
+Grass, Normal,Early,Unknown,Harvest,Grass,Unknown,0,354
+Grass, Normal,Seed,Unknown,Harvest,Grass,Unknown,0,510
+Normal, Flying,Intimidate, Hustle,Guts,Flying,Unknown,0,417
+Rock,Unknown,Purifying, Sturdy,Clear Body,Mineral,Unknown,0,280
+Rock,Unknown,Purifying, Sturdy,Clear Body,Mineral,Unknown,0,355
+Rock,Unknown,Purifying, Sturdy,Clear Body,Mineral,Unknown,0,500
+Fire,Unknown,Flash,Unknown,Flame Body,Human-Like,Unknown,0,255
+Fire, Psychic,Flash,Unknown,Weak Armor,Human-Like,Unknown,0,525
+Fire, Ghost,Flash,Unknown,Weak Armor,Human-Like,Unknown,0,525
+Electric,Unknown,Own, Static,Damp,Water 1,Unknown,0,272
+Electric,Unknown,Electromorphosis, Static,Damp,Water 1,Unknown,0,495
+Electric, Flying,Wind, Volt,Competitive,Water 1, Flying,0,280
+Electric, Flying,Wind, Volt,Competitive,Water 1, Flying,0,490
+Dark,Unknown,Intimidate, Run,Stakeout,Field,Unknown,0,340
+Dark,Unknown,Intimidate, Guard,Stakeout,Field,Unknown,0,505
+Poison, Normal,Unburden, Pickpocket,Prankster,Field,Unknown,0,290
+Poison, Normal,Unburden, Poison,Prankster,Field,Unknown,0,485
+Grass, Ghost,Wind,Unknown,Infiltrator,Grass,Unknown,0,275
+Grass, Ghost,Wind,Unknown,Infiltrator,Grass,Unknown,0,480
+Ground, Grass,Mycelium,Unknown,Unknown,Grass,Unknown,0,335
+Ground, Grass,Mycelium,Unknown,Unknown,Grass,Unknown,0,515
+Rock,Unknown,Anger, Shell,Regenerator,Water 3,Unknown,0,450
+Grass,Unknown,Chlorophyll, Insomnia,Klutz,Grass,Unknown,0,304
+Grass, Fire,Chlorophyll, Insomnia,Moody,Grass,Unknown,0,486
+Bug,Unknown,Compound,Unknown,Shed Skin,Bug,Unknown,0,270
+Bug, Psychic,Synchronize,Unknown,Telepathy,Bug,Unknown,0,470
+Psychic,Unknown,Anticipation, Frisk,Speed Boost,Flying,Unknown,0,255
+Psychic,Unknown,Opportunist, Frisk,Speed Boost,Flying,Unknown,0,481
+Fairy, Steel,Mold, Own,Pickpocket,Fairy,Unknown,0,297
+Fairy, Steel,Mold, Own,Pickpocket,Fairy,Unknown,0,380
+Fairy, Steel,Mold, Own,Pickpocket,Fairy,Unknown,0,506
+Water,Unknown,Gooey, Rattled,Sand Veil,Water 3,Unknown,0,245
+Water,Unknown,Gooey, Rattled,Sand Veil,Water 3,Unknown,0,425
+Flying, Dark,Big, Keen,Rocky Payload,Flying,Unknown,0,485
+Water,Unknown,Water,Unknown,Unknown,Field, Water 2,0,315
+Water,Unknown,Zero,Unknown,Unknown,Field, Water 2,0,457
+Poison, Steel,Overcoat,Unknown,Slow Start,Mineral,Unknown,0,300
+Poison, Steel,Overcoat,Unknown,Filter,Mineral,Unknown,0,500
+Dragon, Normal,Shed,Unknown,Regenerator,Field,Unknown,0,501
+Steel,Unknown,Earth,Unknown,Sand Veil,Field,Unknown,0,480
+Rock, Poison,Toxic,Unknown,Corrosion,Mineral,Unknown,0,350
+Rock, Poison,Toxic,Unknown,Corrosion,Mineral,Unknown,0,525
+Ghost,Unknown,Pickup,Unknown,Fluffy,Field,Unknown,0,290
+Ghost,Unknown,Sand,Unknown,Fluffy,Field,Unknown,0,488
+Flying, Fighting,Scrappy, Tangled,Costar,Flying,Unknown,0,500
+Ice,Unknown,Thick, Snow,Sheer Force,Field,Unknown,0,334
+Ice,Unknown,Thick, Slush,Sheer Force,Field,Unknown,0,521
+Water, Psychic,Mold,Unknown,Sharpness,Water 2,Unknown,0,478
+Water,Unknown,Unaware, Oblivious,Water Veil,Water 2,Unknown,0,530
+Dragon, Water,Commander,Unknown,Storm Drain,Water 2,Unknown,0,475
+Fighting, Ghost,Vital, Inner,Defiant,Field,Unknown,0,535
+Poison, Ground,Poison, Water,Unaware,Water 1, Field,0,430
+Normal, Psychic,Cud, Armor,Sap Sipper,Field,Unknown,0,520
+Normal,Unknown,Serene, Run,Rattled,Field,Unknown,0,520
+Dark, Steel,Defiant, Supreme,Pressure,Human-Like,Unknown,0,550
+Ground, Fighting,Protosynthesis,Unknown,Unknown,Unknown,Unknown,0,570
+Fairy, Psychic,Protosynthesis,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Grass, Dark,Protosynthesis,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Ghost, Fairy,Protosynthesis,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Bug, Fighting,Protosynthesis,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Electric, Ground,Protosynthesis,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Ground, Steel,Quark,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Ice, Water,Quark,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Fighting, Electric,Quark,Unknown,Unknown,Unknown,Unknown,0,570
+Dark, Flying,Quark,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Fire, Poison,Quark,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Rock, Electric,Quark,Unknown,Unknown,No Eggs Discovered,Unknown,0,570
+Dragon, Ice,Thermal,Unknown,Ice Body,Dragon, Mineral,0,320
+Dragon, Ice,Thermal,Unknown,Ice Body,Dragon, Mineral,0,423
+Dragon, Ice,Thermal,Unknown,Ice Body,Dragon, Mineral,0,600
+Ghost,Unknown,RattledChest,Unknown,Unknown,Unknown,Unknown,0,300
+Steel, Ghost,Good,Unknown,Unknown,Unknown,Unknown,0,550
+Dark, Grass,Tablets,Unknown,Unknown,Unknown,Unknown,1,580
+Dark, Ice,Sword,Unknown,Unknown,Unknown,Unknown,1,580
+Dark, Ground,Vessel,Unknown,Unknown,Unknown,Unknown,1,580
+Dark, Fire,Beads,Unknown,Unknown,Unknown,Unknown,1,580
+Dragon, Dark,Protosynthesis,Unknown,Unknown,Unknown,Unknown,0,590
+Fairy, Fighting,Quark,Unknown,Unknown,Unknown,Unknown,0,590
+Fighting, Dragon,Orichalcum,Unknown,Unknown,Unknown,Unknown,1,670
+Electric, Dragon,Hadron,Unknown,Unknown,Unknown,Unknown,1,670
+Water, Dragon,Protosynthesis,Unknown,Unknown,Unknown,Unknown,0,590
+Grass, Psychic,Quark,Unknown,Unknown,Unknown,Unknown,0,590
+Grass, Dragon,Supersweet, Gluttony,Sticky Hold,Grass, Dragon,0,485
+Grass, Ghost,Hospitality,Unknown,Heatproof,Mineral, Amorphous,0,308
+Grass, Ghost,Hospitality,Unknown,Heatproof,Mineral, Amorphous,0,508
+Poison, Fighting,Toxic,Unknown,Guard Dog,Unknown,Unknown,1,555
+Poison, Psychic,Toxic,Unknown,Frisk,Unknown,Unknown,1,555
+Poison, Fairy,Toxic,Unknown,Technician,Unknown,Unknown,1,555
+Grass,Unknown,Defiant,Unknown,Unknown,Unknown,Unknown,1,550
+Steel, Dragon,Stamina, Sturdy,Stalwart,Mineral, Dragon,0,600
+Grass, Dragon,Supersweet, Regenerator,Sticky Hold,Grass, Dragon,0,540
+Fire, Dragon,Protosynthesis,Unknown,Unknown,Unknown,Unknown,0,590
+Electric, Dragon,Protosynthesis,Unknown,Unknown,Unknown,Unknown,0,590
+Rock, Psychic,Quark,Unknown,Unknown,Unknown,Unknown,0,590
+Steel, Psychic,Quark,Unknown,Unknown,Unknown,Unknown,0,590
+Normal,Unknown,Tera,Unknown,Unknown,Unknown,Unknown,1,450
+Poison, Ghost,Poison,Unknown,Unknown,Unknown,Unknown,0,600
